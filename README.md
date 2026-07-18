@@ -1,6 +1,6 @@
 # Gym Workout Tracker
 
-A mobile-first workout tracking web app built with a single HTML file. Designed to help you log and follow daily workouts provided by your Epic Health trainer.
+A mobile-first workout tracking web app built with a single HTML file. Designed to help you log and follow daily workouts provided by FFC AI Consulting.
 
 ## Features
 
